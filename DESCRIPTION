@@ -1,5 +1,5 @@
 Package: babel
-Version: 0.2-4
+Version: 0.2-5
 Title: Ribosome profiling data analysis
 Author: Adam B. Olshen, Richard A. Olshen, Barry S. Taylor
 Maintainer: Adam B. Olshen <olshena@biostat.ucsf.edu>
@@ -11,8 +11,8 @@ Description: Implements babel routines for identifying unusual ribosome protecte
 License: LGPL (>= 2.1)
 Repository: CRAN
 Repository/R-Forge/Project: abo
-Repository/R-Forge/Revision: 540
-Repository/R-Forge/DateTimeStamp: 2013-12-19 21:01:25
-Date/Publication: 2013-12-20 07:37:19
-Packaged: 2013-12-19 23:43:27 UTC; rforge
+Repository/R-Forge/Revision: 541
+Repository/R-Forge/DateTimeStamp: 2014-01-08 23:59:38
+Date/Publication: 2014-01-13 21:13:21
+Packaged: 2014-01-09 03:40:56 UTC; rforge
 NeedsCompilation: no

@@ -1,11 +1,11 @@
-351e653fc00c726a75ce9c399927b849 *DESCRIPTION
+3117f0059e5b21d804d3b9abd0283ccc *DESCRIPTION
 10b339cdef436f2e3f88bc6b1a7cbc02 *NAMESPACE
-aeeb482f133adf0a8945b32041d60e68 *NEWS
-2e5f40910636b4b5fa944528d249783b *R/babel.R
+6a1261cddc141948c0b8a6ee50d5e990 *NEWS
+ba5f6cb7e2d295c406d13d7b8af7b154 *R/babel.R
 63677d9cd01080042484dce054e4cdd1 *build/vignette.rds
 4e17621cacb3e08560bc4594408cbd56 *data/ribo.prof.rda
 870a30d89cba57cba67681d7913cb3b3 *inst/doc/babel.R
-a2f94f810d42b6628cb6394f4c39191d *inst/doc/babel.pdf
+5f00ff2a935861fe77b77915a04d22dc *inst/doc/babel.pdf
 2bdfa8d258e4a986d78ddb2fd5e825b1 *inst/doc/babel.tex.rsp
 257c2fb9b9e5d44f0020f82bfea4e3b9 *man/babel.Rd
 4dfc220d28f356e96709f0fb5c9f8be9 *man/ribo.prof.Rd
