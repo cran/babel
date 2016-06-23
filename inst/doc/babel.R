@@ -1,6 +1,6 @@
 ###########################################################################
 ## This 'tangle' R script was created from an RSP document.
-## RSP source document: 'babel.tex.rsp'
+## RSP source document: './babel.tex.rsp'
 ## Metadata 'title': 'The babel vignette'
 ## Metadata 'keywords': 'example, R, package, vignette'
 ## Metadata 'author': 'Adam B. Olshen, Richard A. Olshen, and Barry S. Taylor'
